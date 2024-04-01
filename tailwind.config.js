@@ -10,7 +10,8 @@ export default {
       'dark': '#232931',
       'gray': '#393E46',
       'rocketblue': '#4ECCA3',
-      'light': '#EEEEEE'
+      'light': '#EEEEEE',
+      'text': '#C9C9C9'
   },
   },
   plugins: [],
