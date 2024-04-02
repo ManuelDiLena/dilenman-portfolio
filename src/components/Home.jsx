@@ -15,10 +15,10 @@ export default function Home() {
             Manuel Di Lena
           </h1>
           <h2 className='text-rocketblue title-font sm:text-5xl text-4xl'>
-            Front-end Developer
+            FullStack Developer
           </h2>
           <div className='sm:mt-8 mt-4 sm:text-left text-text sm:text-xl sm:w-3/4'>
-            <p className='mb-4'>I’m a Software Developer specializing in building (and occasionally designing) digital experiences.</p>
+            <p className='mb-4'>A developer based in Valencia, Spain, specializing in building (and occasionally designing) seamless digital experiences.</p>
             <p>I really like creating, designing and building products to help solve and improve problems.</p>
           </div>
           <div className='flex sm:justify-start justify-around mt-8 sm:text-3xl'>
