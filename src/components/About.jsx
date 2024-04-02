@@ -13,7 +13,7 @@ export default function About() {
           <p>My interest in development began during my studies in 2016 and after graduation I continued learning to constantly improve my skills.</p>
           <p>Currently my focus is on creating accessible products and experiences, as well as continuing to increase my skills.</p>
         </div>
-        <h2 className='sm:text-2xl text-xl text-text mb-4'>
+        <h2 className='sm:text-2xl text-xl text-light mb-4'>
           Where I've Worked
         </h2>
         <div className='flex flex-col text-text mb-6 sm:w-3/4'>

@@ -1,0 +1,22 @@
+export const skills = [
+  'React',
+  'JavaScript',
+  'NodeJS',
+  'TypeScript',
+  'HTML5',
+  'CSS3',
+  'NextJS',
+  'Express',
+  'C#',
+  '.NET',
+  'SQL',
+  'noSQL',
+  'Git',
+  'Docker',
+  'API Rest',
+  'GraphQL',
+  'Styled Components',
+  'Bootstrap',
+  'Tailwind',
+  'Material UI'
+];
