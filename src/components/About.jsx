@@ -42,7 +42,7 @@ export default function About() {
           <h3 className='sm:text-xl text-1'>
             FullStack Developer <a href='https://www.essen.com.ar/home/' className='text-rocketblue underline'>@ Essen S.A.</a>
           </h3>
-          <p className='sm:text-base'>Aug 2021 - Jun 2023</p>
+          <p className='sm:text-base'>Aug 2021 - Jul 2023</p>
           <ul className='text-sm list-disc list-inside pl-8'>
             <li>Development and maintenance of web platforms.</li>
             <li>Work with a wide range of techs such as: React, JS, TS, .NET, C#, HTML, CSS, Bootstrap, SQL Server, Git, APIS, Testing, etc.</li>
