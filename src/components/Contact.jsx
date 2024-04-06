@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { CiMail } from "react-icons/ci";
+import { MdOutlineLocalPhone } from "react-icons/md";
 
 export default function Contact() {
 
@@ -105,7 +106,11 @@ export default function Contact() {
               className='mt-4 px-4 h-20 w-full bg-dark border-solid border-2 border-rocketblue rounded-md text-light sm:text-lg outline-none'
             ></textarea>
           </div>
-          <div className='flex justify-end sm:w-4/5 mx-auto mt-4'>
+          <div className='flex justify-between sm:w-4/5 mx-auto mt-4'>
+            <div className='flex'>
+              <MdOutlineLocalPhone className='text-rocketblue mr-4 text-lg' />
+              <p>+34 661937783</p>
+            </div>
             <input 
               type='submit' 
               name='send' 
@@ -114,8 +119,8 @@ export default function Contact() {
             />
           </div>
         </form>
-        <div className='text-center mt-16'>
-          <a href='https://github.com/ManuelDiLena/dilenman-portfolio' className='text-text leading-relaxed mx-auto sm:text-xl hover:text-rocketblue'>
+        <div className='text-center mt-14'>
+          <a href='https://github.com/ManuelDiLena/dilenman-portfolio' className='text-text leading-relaxed mx-auto text-xs hover:text-rocketblue'>
             Designed & Built by Manuel Di Lena
           </a>
         </div>
