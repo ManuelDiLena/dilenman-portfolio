@@ -23,9 +23,16 @@ export const skills = [
 
 export const works = [
   {
+    title: 'Allfunds Challenge',
+    subtitle: 'React',
+    description: 'This project was carried out as a technical test for the position of fullstack developer at Allfunds.',
+    image: '/allfunds-challenge.png',
+    link: 'https://github.com/ManuelDiLena/allfunds-challenge',
+  },
+  {
     title: 'Wordle Game',
     subtitle: 'React',
-    description: 'Famous game to guess the hidden word using the letters and their positions. Built with React and TS',
+    description: 'Famous game to guess the hidden word using the letters and their positions. Built with React and TS.',
     image: '/wordle-game.png',
     link: 'https://github.com/ManuelDiLena/wordle-game',
   },
