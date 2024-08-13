@@ -23,6 +23,13 @@ export const skills = [
 
 export const works = [
   {
+    title: 'Blog Project',
+    subtitle: 'HTML & CSS',
+    description: 'News blog model adaptable to different screens made with HTML, CSS and vanilla JavaScript.',
+    image: '/blog-project.png',
+    link: 'https://github.com/ManuelDiLena/blog-project',
+  },
+  {
     title: 'Allfunds Challenge',
     subtitle: 'React',
     description: 'This project was carried out as a technical test for the position of fullstack developer at Allfunds.',
@@ -78,11 +85,11 @@ export const works = [
     image: '/events-app.png',
     link: 'https://github.com/ManuelDiLena/events-app',
   },
-  {
-    title: 'Virtual Keyboard',
-    subtitle: 'JavaScript',
-    description: 'Virtual keyboard created with JavaScript, HTML and CSS, with all its features.',
-    image: '/virtual-keyboard.png',
-    link: 'https://github.com/ManuelDiLena/virtual-keyboard',
-  }
+  // {
+  //   title: 'Virtual Keyboard',
+  //   subtitle: 'JavaScript',
+  //   description: 'Virtual keyboard created with JavaScript, HTML and CSS, with all its features.',
+  //   image: '/virtual-keyboard.png',
+  //   link: 'https://github.com/ManuelDiLena/virtual-keyboard',
+  // }
 ]
