@@ -23,6 +23,13 @@ export const skills = [
 
 export const works = [
   {
+    title: 'Portfolio Project',
+    subtitle: 'HTML & SCSS',
+    description: 'Professional portfolio model built with HTML, SCSS and vanilla JavaScript.',
+    image: '/portfolio-project.png',
+    link: 'https://github.com/ManuelDiLena/portfolio-project',
+  },
+  {
     title: 'Blog Project',
     subtitle: 'HTML & CSS',
     description: 'News blog model adaptable to different screens made with HTML, CSS and vanilla JavaScript.',
@@ -78,13 +85,13 @@ export const works = [
     image: '/world-pizza.png',
     link: 'https://github.com/ManuelDiLena/world-pizza',
   },
-  {
-    title: 'Events App',
-    subtitle: 'JavaScript',
-    description: 'Application to create events with remaining days counter, made with JavaScript.',
-    image: '/events-app.png',
-    link: 'https://github.com/ManuelDiLena/events-app',
-  },
+  // {
+  //   title: 'Events App',
+  //   subtitle: 'JavaScript',
+  //   description: 'Application to create events with remaining days counter, made with JavaScript.',
+  //   image: '/events-app.png',
+  //   link: 'https://github.com/ManuelDiLena/events-app',
+  // },
   // {
   //   title: 'Virtual Keyboard',
   //   subtitle: 'JavaScript',
